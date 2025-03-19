@@ -1,10 +1,9 @@
 # Temperature Gauge & Tic-Tac-Toe Program
 
-## Description
 This Java program consists of two parts:
 
-### 1. TemperatureGauge Class
-A class that models a temperature gauge with restrictions on temperature values (-30°F to 180°F). It provides methods to set and retrieve temperature values in both Fahrenheit and Celsius. A client program demonstrates object creation, temperature adjustments, and conversions.
+## Part I: Person Class
+The Person class models a person with attributes for name, age, ID, and a static count. It includes methods for equality checking (equals), converting the object to a string (toString), and a static method for tracking how many people have been created. The client creates and prints out multiple instances, comparing them using equals and == operators.
 
-### 2. Tic-Tac-Toe Game
-A simplified Tic-Tac-Toe game class that manages the first four moves of a game. It ensures players cannot overwrite existing moves or place marks out of bounds. The game tracks turns, displays the board, and prompts players for valid moves using a loop until four moves are made.
+## Part II: Train Simulation
+The Train and TrainSystem classes simulate a two-train system where trains move left or right in a circular track. The trains crash if they occupy the same position. The program tracks and displays each move, printing out the state of the train system after each action.
