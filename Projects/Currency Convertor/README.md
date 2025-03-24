@@ -29,9 +29,3 @@ To run this project, you'll need the following:
 - **Java 8 or higher** installed on your machine.
 - A **text editor** (e.g., VS Code, IntelliJ IDEA, etc.) for Java development.
 
-### Steps to Run the Application:
-
-1. Clone this repository to your local machine:
-   ```bash
-   git clone https://github.com/yourusername/currency-converter.git
-
