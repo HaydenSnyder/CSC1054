@@ -21,13 +21,16 @@ A simple and interactive flashcard application written in Java. This program all
    git clone https://github.com/yourusername/FlashCardProgram.git
 
 2. Navigate to the project directory:
-cd FlashCardProgram
+   ```bash
+   cd FlashCardProgram
 
-3. Compile the Java files:
-javac FlashCardClient.java FlashCards.java
+4. Compile the Java files:
+   ```bash
+   javac FlashCardClient.java FlashCards.java
 
-4. Run the program:
-java FlashCardClient
+6. Run the program:
+   ```bash
+   java FlashCardClient
 
 ## Usage
 ### Select an option from the main menu:
